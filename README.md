@@ -70,12 +70,14 @@ Enter your choice: 1
 Enter number of rows for Matrix A: 2
 Enter number of columns for Matrix A: 2
 Enter elements of Matrix A row-wise:
+
 1 2
 3 4
 
 Enter number of rows for Matrix B: 2
 Enter number of columns for Matrix B: 2
 Enter elements of Matrix B row-wise:
+
 5 6
 7 8
 
@@ -100,3 +102,6 @@ matrix_calculator/
 ├─ matrix_calculator.py   # Main script
 └─ README.md             # Project documentation
 ```
+
+## Author 
+Bairaboina Ruthwik
